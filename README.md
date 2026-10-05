@@ -35,3 +35,4 @@ Para a implementação do agente **Text-to-SQL**, adotamos a seguinte estratégi
   * O agente possui *guardrails* no prompt do sistema para garantir que **apenas consultas de leitura (`SELECT`)** sejam geradas e executadas com segurança sobre a camada Gold (`cinerocket.db`).
 
 ---
+
